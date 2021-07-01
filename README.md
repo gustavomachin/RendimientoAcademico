@@ -5,3 +5,4 @@ Integrantes:
 * Bartolomeo, Alejandro
 * Machín Urbay, Gustavo
 * Ortega Yubro, Cristian
+* Constantinidi, Daniel
