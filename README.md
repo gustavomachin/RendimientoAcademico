@@ -1,8 +1,3 @@
-# Rendimiento Academico
+# Academic Performance
 Machine learning applied to academic performance
 
-Integrantes:
-* Bartolomeo, Alejandro
-* Machín Urbay, Gustavo
-* Ortega Yubro, Cristian
-* Constantinidi, Daniel
